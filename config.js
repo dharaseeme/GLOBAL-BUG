@@ -1,11 +1,11 @@
-global.namaown = "Qasim Ali" // your owner name here
-global.namabot = "© GlobalTechInfo" // your bot name here
+global.namaown = "Iyiola David" // your owner name here
+global.namabot = "© Hero bug" // your bot name here
 global.versisc = "9.5.0" //
-global.owner = ["923444844060"] // your owner number here
+global.owner = ["2348030664873"] // your owner number here
 global.tele = "https://t.me/GlobalBotInc" // your telegram here
-global.url = "https://www.youtube.com/@GlobalTechInfo" // Your YouTube Here
+global.url = "https://youtube.com/@iyioladavid-id8hw?si=ADk3f1kAJhjeXRKi" // Your YouTube Here
 global.namastore = "LynnZxD" // UBAH NAMA STORE LU
-global.simbol = "✪" // You Can Change Simbol
+global.simbol = "🦄" // You Can Change Simbol
 global.wlcm = []
 global.wlcmm = []
 global.limitawal = {
